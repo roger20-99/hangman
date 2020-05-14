@@ -1,5 +1,4 @@
-/* CISC 1600
- * Roger Vo
+/* Roger Vo
  * Final Project
  */
 
